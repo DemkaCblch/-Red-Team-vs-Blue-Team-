@@ -10,11 +10,11 @@
 
 | Способ | Когда использовать |
 |--------|-------------------|
-| [📋 Форма обратной связи](https://forms.gle/PLACEHOLDER) | Быстрый опрос за 5 минут — приоритеты, опыт, пожелания |
-| [💡 Issue: предложение функции](../../issues/new?template=feature_request.md) | Хотите предложить конкретную функцию |
-| [🎯 Issue: сценарий учений](../../issues/new?template=scenario.md) | Хотите добавить сценарий атаки или защиты |
-| [🐛 Issue: ошибка](../../issues/new?template=bug_report.md) | Нашли проблему в документации или прототипе |
-| [💬 Discussions](../../discussions) | Общее обсуждение, вопросы, идеи |
+| [📋 Форма обратной связи](https://docs.google.com/forms/d/e/1FAIpQLSeifm40eAIz9h64UEsY8X2oHFS3A_YB9uv98Od_P-0sP_NVtg/viewform) | Быстрый опрос за 5 минут — приоритеты, опыт, пожелания |
+| [💡 Issue: предложение функции](../../../issues/new?template=feature_request.md) | Хотите предложить конкретную функцию |
+| [🎯 Issue: сценарий учений](../../../issues/new?template=scenario.md) | Хотите добавить сценарий атаки или защиты |
+| [🐛 Issue: ошибка](../../../issues/new?template=bug_report.md) | Нашли проблему в документации или прототипе |
+| [💬 Discussions](../../../discussions) | Общее обсуждение, вопросы, идеи |
 
 ---
 
@@ -69,4 +69,4 @@
 
 ---
 
-*Есть вопросы? Откройте [Discussion](../../discussions) или напишите в Issues.*
+*Есть вопросы? Откройте [Discussion](../../../discussions) или напишите в Issues.*
