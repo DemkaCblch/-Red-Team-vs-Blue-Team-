@@ -59,7 +59,7 @@
 
 ### 📝 Форма обратной связи
 
-👉 **[Заполнить форму (5 минут)](https://forms.gle/PLACEHOLDER)** — расскажите о вашем опыте, потребностях и пожеланиях к платформе.
+👉 **[Заполнить форму (5 минут)](https://forms.gle/zZ4dMsMa4ubXggeN6)** — расскажите о вашем опыте, потребностях и пожеланиях к платформе.
 
 ---
 
@@ -98,7 +98,7 @@
 
 Открыть обсуждение: [GitHub Discussions](../../discussions)  
 Сообщить об идее: [GitHub Issues](../../issues)  
-Форма обратной связи: [Google Forms](https://forms.gle/PLACEHOLDER)
+Форма обратной связи: [Google Forms](https://forms.gle/zZ4dMsMa4ubXggeN6)
 
 ---
 
