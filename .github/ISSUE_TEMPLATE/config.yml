@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📝 Форма обратной связи
+    url: https://forms.gle/PLACEHOLDER
+    about: Заполните краткий опрос — это займёт 5 минут и поможет развитию проекта
+  - name: 💬 Общее обсуждение
+    url: ../../discussions
+    about: Для общих вопросов и идей используйте раздел Discussions
